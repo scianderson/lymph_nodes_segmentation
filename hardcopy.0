@@ -1,0 +1,36 @@
+(base) kyle.anderson@cibcgpu1:~/lymph_nodes/Lymph-Node-Segmentation> python KyleUNetTrainDDP.py -n 1 -g 4 -nr 0 -e 300 -b 8 -c Kyl
+eUNetWeightedBCEZoomSlice2.tar -l KyleUNetWeightedBCEZoomSlice2.log
+True
+Training on a training split of 336 samples (84 test samples).
+True
+True
+True
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
